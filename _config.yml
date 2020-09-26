@@ -305,5 +305,4 @@ compress_html:
 
 theme: jekyll-theme-merlot
 # Analytics
-prod-analytics-id:  UA-179085953-1
-dev-analytics-id:   UA-179085953-1
+google_analytics: UA-179085953-2
