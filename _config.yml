@@ -304,3 +304,6 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-merlot
+# Analytics
+prod-analytics-id:  UA-PRODXX-1
+dev-analytics-id:   UA-DEVXX-2
