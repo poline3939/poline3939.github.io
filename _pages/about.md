@@ -20,7 +20,7 @@ redirect_from:
 * I received my Bachelor’s Degree in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), [Southeast University](https://www.seu.edu.cn/english/). My undergraduate research supervisor is Prof. [Chuan Zhang](https://scholar.google.com/citations?user=iWOmEqMAAAAJ&hl=en).
 
 # Recent News
-* July 2020. I presented our work "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization" at UAI 2020 (Virtual).
+* Aug 2020. I presented our work "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization" at UAI 2020 (Virtual).
 * July 2020. I was serving as a volunteer of ICML 2020.
 * June 2020. One paper was selected as the cover for the Journal of Communications and Information Networks.
 * May 2020.   One paper was accepted by UAI 2020. 
