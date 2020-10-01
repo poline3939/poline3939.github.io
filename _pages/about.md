@@ -53,3 +53,12 @@ redirect_from:
 # Industrial Project
 * High Spectral Efficiency Wireless backhaul with LoS MIMO (09/2018-09/2019)
 * Enhanced MU-MIMO 802.11ax (WiFi 6) (05/2020-)
+
+# Selected Award
+* 2017 HKUST Postgraduate Studentships 
+* 2017 First Prize of Excellent BSc Thesis of Jiangsu Province （江苏省优秀本科生优秀毕业论文 一等奖）
+* 2016 Baosteel Scholarship （宝钢优秀学生奖学金）
+* 2015 Young Scholar Awards by Microsoft Research Asian (微软亚洲小学者奖学金）
+* 2015 3rd place of RoboCup,Kidsize,China； 2nd place of RoboCup, Kidsize Challenge, China
+
+
