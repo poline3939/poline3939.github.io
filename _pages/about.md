@@ -56,7 +56,7 @@ redirect_from:
 
 # Selected Award
 * 2017 HKUST Postgraduate Studentships 
-* 2017 First Prize of Excellent BSc Thesis of Jiangsu Province （江苏省优秀本科生优秀毕业论文 一等奖）
+* 2017 First Prize of Excellent BSc Thesis of Jiangsu Province （江苏省本科生优秀毕业论文 一等奖）
 * 2016 Baosteel Scholarship （宝钢优秀学生奖学金）
 * 2015 Young Scholar Awards by Microsoft Research Asian (微软亚洲小学者奖学金）
 * 2015 3rd place of RoboCup,Kidsize,China； 2nd place of RoboCup, Kidsize Challenge, China
