@@ -4,28 +4,29 @@ permalink: /year-archive/
 author_profile: true
 ---
 <br>
-<b>[Optimization]</b>
-<i> Optimization helps us to master the training. It tells us why those simple method (e.g., SGD) can find  good parameters </i>
 
-<b>Convex Optimization</b>: Nesterov, Yurii. Introductory lectures on convex optimization: A basic course. Vol. 87. Springer Science & Business Media, 2013.
-<b>Ye Xue</b>, Yifei Shen, Vincent Lau, Jun Zhang, Khaled B. Letaief<br>
-<i>arXiv:2004.12301</i>.
+# Optimization  
+*Optimization helps us to master the training. It tells us why those simple method (e.g., SGD) can find  good parameters*  
+* Convex Optimization
+    - Nesterov, Yurii. [Introductory lectures on convex optimization: A basic course](https://books.google.com.hk/books?hl=zh-TW&lr=&id=2-ElBQAAQBAJ&oi=fnd&pg=PA1&dq=introductory+lectures+on+convex+programming&ots=wmoQanrhmx&sig=QKUcatCgmqwHNej6QSawSY6BZ6U&redir_esc=y#v=onepage&q=introductory%20lectures%20on%20convex%20programming&f=false). Vol. 87. Springer Science & Business Media, 2013.
+    - Boyd, Stephen, Stephen P. Boyd, and Lieven Vandenberghe. [Convex optimization.](https://web.stanford.edu/~boyd/cvxbook/) Cambridge university press, 2004.
+ 
+ * Nonconvex Optimization
+     - https://sunju.org/research/nonconvex/
 
-<b>[Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization](https://arxiv.org/pdf/2002.10043.pdf)</b> <br> 
-<b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau<br>
-<i>Accepted by The Conference on Uncertainty in Artificial Intelligence (UAI), 2020</i>.
+# Statistic
+*Statistic characterizes the generalization property of the learning scheme*
+* High-dimensional Probability
+    - Vershynin, Roman. [High-dimensional probability: An introduction with applications in data science.](https://www.math.uci.edu/~rvershyn/) Vol. 47. Cambridge university press, 2018.
+    - Wainwright, Martin J. [High-dimensional statistics: A non-asymptotic viewpoint.](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E) Vol. 48. Cambridge University Press, 2019.
+    
+    
+# Geometry and Algebra
+*Geometry and Algebra provides the fundamental tool for understanding a machine learning process*
+* Linear Algebra
+    - Axler, Sheldon. [Linear algebra done right](https://link.springer.com/book/10.1007%2F978-3-319-11080-6）. springer, 2015.
+* Advanced
+    - Lang, Serge. [Fundamentals of differential geometry.](https://www.springer.com/gp/book/9780387985930) Vol. 191. Springer Science & Business Media, 2012.
 
-<b>[Efficient Pre-Conditioned Descent Search Detector for Massive MU-MIMO](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9007506)</b> <br> 
-Chuan Zhang, Jiejun Jin, <b>Ye Xue</b>, Xiaosi Tan, Christoph Studer, Zaichen Zhang, Xiaohu You<br>
-<i>IEEE Transactions on Vehicular Technology, 2019</i>.
-
-<b>[Adaptive Preconditioned Iterative Linear Detection and Architecture for Massive MU-MIMO Uplink](https://link.springer.com/content/pdf/10.1007/s11265-017-1317-8.pdf)</b> <i>[Invited paper]<i> <br> 
-<b>Ye Xue</b>,  Zhizhen Wu, Junmei Yang, Shunqing Zhang, Zaichen Zhang, Xiaohu You,  Chuan Zhang<br>
-<i>Journal of Signal Processing Systems(2018) 90:1453–1467</i>
-
-
-
-
-[\* denotes equal contribution]
 
 
