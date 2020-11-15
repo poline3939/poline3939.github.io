@@ -5,6 +5,8 @@ modified: 2020-Nov
 ---
 
 {% include toc %}
+----
+## Basic Tools
 
 # Optimization  
 *Optimization helps us to master the training. It tells us why those simple method (e.g., SGD) can find  good parameters.*  
@@ -30,7 +32,7 @@ modified: 2020-Nov
     - Lang, Serge. [Fundamentals of differential geometry.](https://www.springer.com/gp/book/9780387985930) Vol. 191. Springer Science & Business Media, 2012.
 
 --------
-# Reading and Summary
+## Reading and Summary
 * 2020 Nov
    
 
