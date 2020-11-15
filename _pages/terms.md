@@ -24,6 +24,7 @@ modified: 2020-Nov
     - Wainwright, Martin J. [High-dimensional statistics: A non-asymptotic viewpoint.](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E) Vol. 48. Cambridge University Press, 2019.
 * Statistic for machine learning
     - Vapnik, Vladimir. [The nature of statistical learning theory](https://statisticalsupportandresearch.files.wordpress.com/2017/05/vladimir-vapnik-the-nature-of-statistical-learning-springer-2010.pdf). Springer, 2013.
+    
 # Geometry and Algebra
 *Geometry and Algebra provide a fundamental tool for understanding a machine learning process.*
 * Linear Algebra
