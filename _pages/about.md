@@ -38,8 +38,6 @@ redirect_from:
   - Chuan Zhang,  <b>Ye Xue</b>,   Xiaohu You, " MIMO linear iteraction detection method extensive under non-ideal communication channel", <i>CN Patent, CN106357309B issued June 21, 2019</i>. [[patent]](https://patents.google.com/patent/CN106357309B/en?oq=CN106357309B)
   - <b>Ye Xue</b>,  Zhizhen Wu, Junmei Yang, Shunqing Zhang, Zaichen Zhang, Xiaohu You,  Chuan Zhang, "Adaptive Preconditioned Iterative Linear Detection and Architecture for Massive MU-MIMO Uplink",  <i>Journal of Signal Processing Systems(2018) 90:1453–1467</i>. [[paper]](https://link.springer.com/article/10.1007/s11265-017-1317-8) 
  
-* Robotics
-  - Wei Cheng, <b>Ye Xue</b>, Chuan Liu and Ying-zi Tan, "An Efficient Method of Recognition Human Motion in Human-Robot Interaction System",  <i>Electrical Engineering and Automation, pp. 785-793 (2017)</i>. [[paper]](https://www.worldscientific.com/doi/abs/10.1142/9789813220362_0094)
 
 [\* denotes equal contribution]
 
