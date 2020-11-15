@@ -31,7 +31,7 @@ redirect_from:
 
 # Selected Publications
 * Learning Theory
-  -  <b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau, "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization", <i>in Proc. Conf. Uncertainty in Artif. Intell. (UAI), vol. 124. Virtual: PMLR, 03–06 Aug 2020, pp. 280–289.</i>. [[paper]](http://proceedings.mlr.press/v124/shen20a.html) [[code]](https://github.com/yokoxue/LpDL) 
+  -  <b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau, "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization", <i>in Proc. Conf. Uncertainty in Artif. Intell. (UAI), vol. 124. Virtual: PMLR, 03–06 Aug 2020, pp. 280–289.</i> [[paper]](http://proceedings.mlr.press/v124/shen20a.html) [[code]](https://github.com/yokoxue/LpDL) 
 * MIMO Communication
   - <b>Ye Xue</b>, Yifei Shen, Vincent Lau, Jun Zhang, and Khaled B. Letaief, "Blind data detection in massive MIMO via <i>ℓ</i><sub>3</sub>-norm maximization over the Stiefel manifold," <i>IEEE Transactions on Wireless Communication, Early Access, 2020.</i> [[paper]](https://ieeexplore.ieee.org/document/9246702)
   -  Chuan Zhang, Jiejun Jin, <b>Ye Xue</b>, Xiaosi Tan, Christoph Studer, Zaichen Zhang, Xiaohu You, "Efficient Pre-Conditioned Descent Search Detector for Massive MU-MIMO", <i>IEEE Transactions on Vehicular Technology, vol. 69, no. 5, pp. 4663-4676, May 2020 </i>. [[paper]](https://ieeexplore.ieee.org/abstract/document/9007506)
