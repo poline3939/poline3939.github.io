@@ -27,7 +27,7 @@ redirect_from:
 * June 2020. One paper was selected as the cover for the Journal of Communications and Information Networks. [[paper]](https://ieeexplore.ieee.org/abstract/document/9130434)
 * May 2020.  One paper was accepted by UAI 2020. 
 * April 2020. I was served as a volunteer of ICLR 2020.
-* Feb   2020. One paper was accepted by  IEEE Transactions on Vehicular Technology. 
+* Feb   2020. One paper was accepted by  IEEE Transactions on Vehicular Technology. [[paper]](https://ieeexplore.ieee.org/abstract/document/9007506) 
 
 # Selected Publications
 * Learning Theory
