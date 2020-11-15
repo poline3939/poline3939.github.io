@@ -54,7 +54,13 @@ redirect_from:
 
 # Industrial Project
 * High Spectral Efficiency Wireless backhaul with LoS MIMO (09/2018-09/2019)
+    - Fine timing synchronization
+    - Phase noise model and generation
+    - QoE-constraint transceiver design
+    - Achievable performance analysis to provide a guideline of the project
 * Enhanced MU-MIMO 802.11ax (WiFi 6) (05/2020-)
+    - High-accuracy and low-complexity channel estimation fo large-scale OFDMA system
+    - Low-complexity robust transceiver design
 
 # Selected Award
 * 2017 HKUST Postgraduate Studentships 
