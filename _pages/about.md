@@ -24,7 +24,7 @@ redirect_from:
 * Oct 2020. One paper was accepted by IEEE Transactions on Wireless Communication. [[paper]](https://ieeexplore.ieee.org/document/9246702)
 * Aug 2020. I presented our work "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization" at UAI 2020 (Virtual) [[Video]](https://www.youtube.com/watch?v=7ybIy1ztwHg&list=PLTrdDEfEeShmhkbbCtmaPst7f7CFll0kc&index=11).
 * July 2020. I was served as a volunteer of ICML 2020.
-* June 2020. One paper was selected as the cover for the Journal of Communications and Information Networks.
+* June 2020. One paper was selected as the cover for the Journal of Communications and Information Networks.[[paper]](https://ieeexplore.ieee.org/abstract/document/9130434)
 * May 2020.  One paper was accepted by UAI 2020. 
 * April 2020. I was served as a volunteer of ICLR 2020.
 * Feb   2020. One paper was accepted by  IEEE Transactions on Vehicular Technology. 
