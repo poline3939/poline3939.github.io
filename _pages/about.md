@@ -15,7 +15,7 @@ redirect_from:
 # About Me
 * I am a Ph.D. candidate in the [Electronic and Computer Engineering (ECE) Department](https://www.ece.ust.hk/) at [HKUST](https://www.ust.hk/), supervised by Prof. [Vincent LAU](https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html). 
 
-* My research interests lie in the general area of machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis and applications in the future wireless network. [Find more about machine learning theory](https://yokoxue.github.io/MLT)
+* My research interests lie in the general area of machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis and applications in the future wireless network. [Find more about machine learning theory](https://yokoxue.github.io/terms/)
 
 * I received my Bachelor’s Degree in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), [Southeast University](https://www.seu.edu.cn/english/). My undergraduate research supervisor is Prof. [Chuan Zhang](https://scholar.google.com/citations?user=iWOmEqMAAAAJ&hl=en).
 
