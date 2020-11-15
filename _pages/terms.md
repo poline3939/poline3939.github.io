@@ -4,7 +4,6 @@ title: "Abouth the Machine Learning Theory"
 modified: 2020-Nov
 ---
 
-{% include base_path %}
 {% include toc %}
 
 # Optimization  
