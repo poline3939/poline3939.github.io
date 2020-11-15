@@ -1,6 +1,6 @@
 ---
 title: "Resource"
-permalink: /year-archive/
+permalink: /year-archive
 author_profile: true
 ---
 <br>
