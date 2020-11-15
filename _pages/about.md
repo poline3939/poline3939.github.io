@@ -20,11 +20,12 @@ redirect_from:
 * I received my Bachelor’s Degree in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), [Southeast University](https://www.seu.edu.cn/english/). My undergraduate research supervisor is Prof. [Chuan Zhang](https://scholar.google.com/citations?user=iWOmEqMAAAAJ&hl=en).
 
 # Recent News
-* Oct 2020. One paper was accepted by IEEE Transactions on Wireless Communication. My first first-author Transaction!
+* Nov 2020. Happy to be selected as a volunteer of NeurIPS 2020!
+* Oct 2020. One paper was accepted by IEEE Transactions on Wireless Communication.
 * Aug 2020. I presented our work "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization" at UAI 2020 (Virtual) [[Video]](https://www.youtube.com/watch?v=7ybIy1ztwHg&list=PLTrdDEfEeShmhkbbCtmaPst7f7CFll0kc&index=11).
-* July 2020. I was serving as a volunteer of ICML 2020.
+* July 2020. I was served as a volunteer of ICML 2020.
 * June 2020. One paper was selected as the cover for the Journal of Communications and Information Networks.
-* May 2020.   One paper was accepted by UAI 2020. 
+* May 2020.  One paper was accepted by UAI 2020. 
 * April 2020. I was served as a volunteer of ICLR 2020.
 * Feb   2020. One paper was accepted by  IEEE Transactions on Vehicular Technology. 
 
