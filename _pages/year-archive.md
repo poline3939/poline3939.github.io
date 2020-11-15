@@ -24,7 +24,7 @@ author_profile: true
 # Geometry and Algebra
 *Geometry and Algebra provide a fundamental tool for understanding a machine learning process.*
 * Linear Algebra
-    - Axler, Sheldon. [Linear algebra done right](https://link.springer.com/book/10.1007%2F978-3-319-11080-6）. springer, 2015.
+    - Axler, Sheldon.[Linear algebra done right](https://linear.axler.net/). springer, 2015.
 * Advanced
     - Lang, Serge. [Fundamentals of differential geometry.](https://www.springer.com/gp/book/9780387985930) Vol. 191. Springer Science & Business Media, 2012.
 
