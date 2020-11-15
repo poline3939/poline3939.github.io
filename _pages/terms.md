@@ -1,39 +1,34 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+title: "Abouth the Machine Learning Theory"
+modified: 2020-Nov
 ---
 
 {% include base_path %}
 {% include toc %}
 
-## Privacy Policy
+# Optimization  
+*Optimization helps us to master the training. It tells us why those simple method (e.g., SGD) can find  good parameters.*  
+* Convex Optimization
+    - Nesterov, Yurii. [Introductory lectures on convex optimization: A basic course](https://books.google.com.hk/books?hl=zh-TW&lr=&id=2-ElBQAAQBAJ&oi=fnd&pg=PA1&dq=introductory+lectures+on+convex+programming&ots=wmoQanrhmx&sig=QKUcatCgmqwHNej6QSawSY6BZ6U&redir_esc=y#v=onepage&q=introductory%20lectures%20on%20convex%20programming&f=false). Vol. 87. Springer Science & Business Media, 2013.
+    - Boyd, Stephen, Stephen P. Boyd, and Lieven Vandenberghe. [Convex optimization.](https://web.stanford.edu/~boyd/cvxbook/) Cambridge university press, 2004.
+ 
+ * Nonconvex Optimization
+     - https://sunju.org/research/nonconvex/
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+# Statistic
+*Statistic characterizes the generalization property of the learning scheme.*
+* High-dimensional Probability
+    - Vershynin, Roman. [High-dimensional probability: An introduction with applications in data science.](https://www.math.uci.edu/~rvershyn/) Vol. 47. Cambridge university press, 2018.
+    - Wainwright, Martin J. [High-dimensional statistics: A non-asymptotic viewpoint.](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E) Vol. 48. Cambridge University Press, 2019.
+    
+    
+# Geometry and Algebra
+*Geometry and Algebra provide a fundamental tool for understanding a machine learning process.*
+* Linear Algebra
+    - Axler, Sheldon.[Linear algebra done right](https://linear.axler.net/). springer, 2015.
+* Advanced
+    - Lang, Serge. [Fundamentals of differential geometry.](https://www.springer.com/gp/book/9780387985930) Vol. 191. Springer Science & Business Media, 2012.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
-### Log Files
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
-
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
