@@ -59,7 +59,7 @@ redirect_from:
     - Achievable performance analysis to provide a guideline of the project
 * Enhanced MU-MIMO 802.11ax (WiFi 6) (05/2020-)
     - High-accuracy and low-complexity channel estimation fo large-scale OFDMA system
-    - Low-complexity robust transceiver design
+    - Low-complexity robust transceiver design for the large-scale MU-MIMO-OFDMA system
 
 # Selected Award
 * 2017 HKUST Postgraduate Studentships 
