@@ -42,7 +42,7 @@ redirect_from:
 [\* denotes equal contribution]
 
 # Academic Services
-* Reviewer: Electronics Letters, Globecom 2018, ICC 2018, APCC 2018, ISCAS 2016.
+* Reviewer: IEEE Transactions on Wireless Communication, Electronics Letters, Globecom 2018, ICC 2018, APCC 2018, ISCAS 2016.
 
 # Teaching
 * Teaching assistant:
