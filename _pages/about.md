@@ -69,5 +69,5 @@ redirect_from:
 * 2015 3rd place of RoboCup,Kidsize,China； 2nd place of RoboCup, Kidsize Challenge, China
 
 # Links
-My boyfriend Dr. Kaixuan Wang is working on depth estimation, 3D reconstruction, and the applications in autonomous driving industry. Check out his [[webpage]](https://wang-kx.github.io/).
+* My boyfriend Dr. Kaixuan Wang is working on depth estimation, 3D reconstruction, and the applications in autonomous driving industry. Check out his [[webpage]](https://wang-kx.github.io/).
 
