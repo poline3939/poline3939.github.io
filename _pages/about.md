@@ -20,6 +20,7 @@ redirect_from:
 * I received my Bachelor’s Degree in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), [Southeast University](https://www.seu.edu.cn/english/). My undergraduate research supervisor is Prof. [Chuan Zhang](https://scholar.google.com/citations?user=iWOmEqMAAAAJ&hl=en).
 
 # Recent News
+* Dec 2020. Very honor to join the WiML-T (Women in Machine Learning Theory) program as a mentor!
 * Nov 2020. Happy to be selected as a volunteer of NeurIPS 2020! See you in the Virtual Town!
 * Oct 2020. One paper was accepted by IEEE Transactions on Wireless Communication. [[paper]](https://ieeexplore.ieee.org/document/9246702)
 * Aug 2020. I presented our work "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization" at UAI 2020 (Virtual). [[video]](https://www.youtube.com/watch?v=7ybIy1ztwHg&list=PLTrdDEfEeShmhkbbCtmaPst7f7CFll0kc&index=11)
