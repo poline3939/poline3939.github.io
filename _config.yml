@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yoko Ye XUE's homepage"
 title_separator          : "-"
-name                     : &name "Ye XUE"
+name                     : &name "Ye XUE(薛燁)"
 description              : &description "Ph.D. candidate, ECE Department, HKUST"
 url                      : https://yokoxue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
