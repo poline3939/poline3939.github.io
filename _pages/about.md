@@ -53,7 +53,7 @@ redirect_from:
     - Phase noise model and generation
     - QoE-constraint transceiver design
     - Achievable performance analysis to provide a guideline of the project
-    - System-level transceiver simulation platform with MATLAB
+    - System-level transceiver simulation platform
     - Project slides and project report
 * Enhanced MU-MIMO 802.11ax (WiFi 6) (05/2020-11/2020) <i> Patent submit </i>
     - High-accuracy and low-complexity channel estimation fo large-scale OFDMA system
