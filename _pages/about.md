@@ -38,7 +38,7 @@ redirect_from:
 [\* denotes equal contribution]
 
 # Academic Services
-* Reviewer: IEEE Transactions on Wireless Communication, Electronics Letters, Globecom 2018, ICC 2018, APCC 2018, ISCAS 2016.
+* Reviewer: IEEE Internet of Things Journal, IEEE Transactions on Wireless Communication, Electronics Letters, Globecom 2018, 2021, ICC 2018, APCC 2018, ISCAS 2016.
 
 # Teaching
 * Teaching assistant:
