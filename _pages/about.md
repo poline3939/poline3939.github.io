@@ -27,7 +27,7 @@ redirect_from:
 # Selected Publications
 * Learning Theory
    -  <b>Ye Xue</b>,  Vincent Lau, Songfu Cai, "Efficient Sparse Coding using Hierarchical Riemannian Pursuit", <i>in IEEE Transactions on Signal Processing, doi: 10.1109/TSP.2021.3093769.</i> [[paper]](https://arxiv.org/abs/2104.10314) [[code]](https://github.com/yokoxue/HRP) 
-  -  <b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau, "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization", <i>in Proc. Conf. Uncertainty in Artif. Intell. (UAI), vol. 124. Virtual: PMLR, 03–06 Aug 2020, pp. 280–289.</i> [[paper]](http://proceedings.mlr.press/v124/shen20a.html) [[code]](https://github.com/yokoxue/LpDL) 
+  -  <b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau, "Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization", <i>in Proc. Conf. Uncertainty in Artif. Intell. (UAI), vol. 124. Virtual: PMLR, 03–06 Aug 2020, pp. 280–289.</i> [[paper]](http://proceedings.mlr.press/v124/shen20a.html) [[code]](https://github.com/yokoxue/LpDL) [[slides]](https://github.com/yokoxue/LpDL/blob/master/UAI.pdf) [[presentation]](https://www.youtube.com/watch?v=7ybIy1ztwHg)
 * Machine Learning for Communication
   - <b>Ye Xue</b>, Yifei Shen, Vincent Lau, Jun Zhang, and Khaled B. Letaief, "Blind data detection in massive MIMO via <i>ℓ</i><sub>3</sub>-norm maximization over the Stiefel manifold," <i>IEEE Transactions on Wireless Communication, 2020.</i> [[paper]](https://ieeexplore.ieee.org/document/9246702)
 * MIMO Communication
