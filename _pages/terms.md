@@ -4,7 +4,7 @@ title: "Abouth the Machine Learning Theory"
 modified: 2020-Nov
 ---
 
-{% include toc %}
+
 ----
 ## Basic Tools
 
