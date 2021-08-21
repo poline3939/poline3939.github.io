@@ -29,8 +29,10 @@ modified: 2020-Nov
 *Geometry and Algebra provide a fundamental tool for understanding a machine learning process.*
 * Linear Algebra
     - Axler, Sheldon.[Linear algebra done right](https://linear.axler.net/). springer, 2015.
+
 * Advanced
     - Lang, Serge. [Fundamentals of differential geometry.](https://www.springer.com/gp/book/9780387985930) Vol. 191. Springer Science & Business Media, 2012.
+    - P.-A. Absil, R. Mahony, and R. Sepulchre. [Optimization Algorithms on Matrix Manifolds](http://www.eeci-institute.eu/GSC2011/Photos-EECI/EECI-GSC-2011-M5/book_AMS.pdf). Princeton University Press, USA 2007.
 
 --------
 ## Reading and Summary
