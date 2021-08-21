@@ -36,6 +36,5 @@ modified: 2020-Nov
 
 --------
 ## Reading and Summary
-* 2020 Nov
-   
+TBA
 
