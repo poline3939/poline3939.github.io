@@ -17,7 +17,7 @@ redirect_from:
 
 * My research interests lie in the general area of machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis, non-convex optimization and applications in the future wireless network. 
 
-* I received my Bachelor’s Degree in Information Science and Technology, enrolled in the Advanced Class for Leading Professionals in Engineering in Chien-Shiung Wu Honor College [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/) <a href="#note1" id="note1ref"><sup>1</sup></a>, [Southeast University](https://www.seu.edu.cn/english/).
+* I received my Bachelor’s Degree in Information Science and Technology, enrolled in the Advanced Class for Leading Professionals in Engineering in [Chien-Shiung Wu Honor College](https://wjx.seu.edu.cn/wjxen/)  <a href="#note1" id="note1ref"><sup>1</sup></a>, [Southeast University](https://www.seu.edu.cn/english/).
 
 
 # Recent News
