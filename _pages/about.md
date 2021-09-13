@@ -17,8 +17,8 @@ redirect_from:
 
 * My research interests lie in the general area of machine learning and wireless communication, particularly in learning theory, high-dimensional data analysis, non-convex optimization and applications in the future wireless network. 
 
-* I received my Bachelor’s Degree in Information Science and Technology, enrolled in the Advanced Class for Leading Professionals in Engineering in Chien-Shiung Wu Honor College [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/)<sup>[1](#myfootnote1)</sup>, [Southeast University](https://www.seu.edu.cn/english/).
- <a name="myfootnote1">1</a>: Chien-Shiung Wu College (honor) selects top 5% students in EE&CS field with an enrollment test, and the Advanced Class is made up of the top 30 elites of the selected students, offering extensive and demanding EE&CS courses in the first two years of undergraduate study.
+* I received my Bachelor’s Degree in Information Science and Technology, enrolled in the Advanced Class for Leading Professionals in Engineering in Chien-Shiung Wu Honor College [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/) <sup id="a1">[1](#f1)</sup>, [Southeast University](https://www.seu.edu.cn/english/).
+<b id="f1">1</b> Chien-Shiung Wu College (honor) selects top 5% students in EE&CS field with an enrollment test, and the Advanced Class is made up of the top 30 elites of the selected students, offering extensive and demanding EE&CS courses in the first two years of undergraduate study. [↩](#a1)
 
 # Recent News
 * June 2021. One paper has been accepted by  IEEE Transactions on Signal Processing. [[paper]](https://arxiv.org/abs/2104.10314) [[code]](https://github.com/yokoxue/HRP) 
