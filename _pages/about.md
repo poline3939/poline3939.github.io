@@ -55,7 +55,7 @@ redirect_from:
 
 # Industrial Project
 * Federated Learning in Wireless Communication (12/2021-)
-* High Spectral Efficiency Wireless backhaul with LoS MIMO (09/2018-09/2019)
+* High Spectral Efficiency Wireless Backhaul with LoS MIMO (09/2018-09/2019)
     - Phase noise model and generation
     - QoE-constraint transceiver design
     - Achievable performance analysis to provide a guideline of the project
