@@ -21,6 +21,7 @@ redirect_from:
 
 
 # Recent News
+* June 2022. I have successfully defended my thesis!
 * Nov 2021. One paper has been accepted by  IEEE Transactions on Neural Networks and Learning Systems. [[Full paper]](https://arxiv.org/pdf/2103.01484.pdf)
 * June 2021. One paper has been accepted by  IEEE Transactions on Signal Processing. [[paper]](https://arxiv.org/abs/2104.10314) [[code]](https://github.com/yokoxue/HRP) 
 * Dec 2020. Very honor to join the WiML-T (Women in Machine Learning Theory) program as a mentor!
