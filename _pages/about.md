@@ -75,7 +75,6 @@ redirect_from:
 * 2015 3rd place of RoboCup,Kidsize,China； 2nd place of RoboCup, Kidsize Challenge, China
 
 # Links
-* My boyfriend Dr. Kaixuan Wang is working on depth estimation, 3D reconstruction, and the applications in autonomous driving industry. Check out his [[webpage]](https://wang-kx.github.io/).
 * Find the codes of machine learning in wireless communication [[here]](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL).
 
 <a id="note1" href="#note1ref"><sup>1</sup></a> Chien-Shiung Wu College (honor) selects top 5% students in EE&CS field with an enrollment test, and the Advanced Class is made up of the top 30 elites of the selected students, offering extensive and demanding EE&CS courses in the first two years of undergraduate study. 
