@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yoko Ye XUE's homepage"
+title                    : "XIAN Yin, Poline's homepage"
 title_separator          : "-"
-name                     : &name "Ye XUE(薛燁)"
-description              : &description "Ph.D. candidate, ECE Department, HKUST"
-url                      : https://yokoxue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "XIAN Yin"
+description              : &description "Researcher, Hong Kong Applied Science and Technology Research Institute"
+url                      : https://polinexian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yokoxue/yokoxue.github.io"
+repository               : "poline3939/polinexian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ye XUE (薛燁)"
+  name             : "Xian Yin"
   avatar           : "myphoto.jpg"
-  bio              : "Ph.D. student, ECE Department, HKUST"
-  location         : "Clear Water Bay, Hong Kong"
+  bio              : "Hong Kong Applied Science and Technology Research Institute"
+  location         : "Science Park, Hong Kong"
   employer         : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=7A6ybEQAAAAJ&hl=en"
-  email            : "yxueaf@ust.hk"
+  googlescholar    : #"https://scholar.google.com.hk/citations?user=7A6ybEQAAAAJ&hl=en"
+  email            : #"yxueaf@ust.hk"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "yokoxue"
+  github           : "poline3939"
   google_plus      :
   keybase          :
   instagram        : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@yokoyexue" 
+  twitter          : "@poline3939" 
   vine             :
   weibo            :
   xing             :
