@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am a researcher in the Hong Kong Applied Science and Technology Research Institute. I received my PhD degree from Department of Electrical and Computer Engineering of [Duke University](https://duke.edu/) in May 2016. After that I had been a visiting scholar and lecturer of [Hong Kong University of Science and Technology](https://hkust.edu.hk/home).
+* I am a researcher in the Hong Kong Applied Science and Technology Research Institute (ASTRI). I received my PhD degree from Department of Electrical and Computer Engineering of [Duke University](https://duke.edu/) in May 2016. After that I had been a visiting scholar and lecturer of [Hong Kong University of Science and Technology](https://hkust.edu.hk/home).
 
 * My research interests lie in the general area of signal processing, high-dimensional data analysis, non-convex optimization and applications. 
 
