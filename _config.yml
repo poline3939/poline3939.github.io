@@ -11,9 +11,9 @@ title                    : "XIAN Yin, Poline's homepage"
 title_separator          : "-"
 name                     : &name "XIAN Yin"
 description              : &description "Researcher, Hong Kong Applied Science and Technology Research Institute"
-url                      : https://polinexian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://poline3939.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "poline3939/polinexian.github.io"
+repository               : "poline3939/poline3939.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Xian Yin"
-  avatar           : "myphoto.jpg"
+  avatar           : #"myphoto.jpg"
   bio              : "Hong Kong Applied Science and Technology Research Institute"
   location         : "Science Park, Hong Kong"
   employer         : 
