@@ -19,8 +19,8 @@ redirect_from:
 
 
 # Recent Highlights
-* June 2022. I am invited to give talks on 2022 SIAM Meeting of Mathematics of Data Science.  
-* March 2022. Two papers have been accepted by the Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging. 
+* June 2022: I am invited to give talks on 2022 SIAM Meeting of Mathematics of Data Science.  
+
 
 
 
