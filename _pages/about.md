@@ -19,9 +19,8 @@ redirect_from:
 
 
 # Recent Highlights
-* June 2022. I have successfully defended my thesis!
-* Nov 2021. One paper has been accepted by  IEEE Transactions on Neural Networks and Learning Systems. [[Full paper]](https://arxiv.org/pdf/2103.01484.pdf)
-* June 2021. One paper has been accepted by  IEEE Transactions on Signal Processing. [[paper]](https://arxiv.org/abs/2104.10314) [[code]](https://github.com/yokoxue/HRP) 
-* Dec 2020. Very honor to join the WiML-T (Women in Machine Learning Theory) program as a mentor!
+* June 2022. I am invited to give talks on 2022 SIAM Meeting of Mathematics of Data Science.  
+* March 2022. Two papers have been accepted by the Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging. 
+
 
 
