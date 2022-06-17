@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am a researcher in the Hong Kong Applied Science and Technology Research Institute (ASTRI). I received my PhD degree from Department of Electrical and Computer Engineering of [Duke University](https://duke.edu/) in May 2016. After that I had been a visiting scholar and lecturer of Department of Mathematics in [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) and [Duke University](https://duke.edu/). I had also been a visiting scholar of [Hausdorff Institute of Mathematics] (https://www.him.uni-bonn.de/) of [the University of Bonn](https://www.him.uni-bonn.de/) in Germany in 2016. 
+* I am a researcher in the Hong Kong Applied Science and Technology Research Institute (ASTRI). I received my PhD degree from Department of Electrical and Computer Engineering of [Duke University](https://duke.edu/) in May 2016. After that I had been a visiting scholar and lecturer of Department of Mathematics in [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) and [Duke University](https://duke.edu/). I had also been a visiting scholar of [Hausdorff Institute of Mathematics](https://www.him.uni-bonn.de/) of [the University of Bonn](https://www.him.uni-bonn.de/) in Germany in 2016. 
 
 * My research interests lie in the general area of signal processing, high-dimensional data analysis, non-convex optimization and applications. 
 
