@@ -41,6 +41,8 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., and Yao Y.<br>
 <b> Xian Y.</b>,  Zhang Y., Tantum S., and Nolte N. <br>
 <i> The Journal of the Acoustical Society of America, 2013 </i>    
 
+<br>
+<b> Preprint </b>
 
 
 [\* denotes equal contribution]
