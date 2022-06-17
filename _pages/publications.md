@@ -6,12 +6,12 @@ author_profile: true
 <br>
 <b>[Book Chapters]</b>
 
-<b>[Randomized Kaczmarz method for single particle X-ray image phase retrieval]</b> <br> 
+<b>Randomized Kaczmarz method for single particle X-ray image phase retrieval</b>  <i>[Invited paper]<i> <br> 
 <b>Xian Y.</b>, Liu H., Tai X., Wang Y.<br>
 <i>Accepted by the Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, 2022</i>.
 
 <b>[Generative Adversarial Networks for Robust Cryo-EM Image Denoising](https://arxiv.org/pdf/2008.07307.pdf)</b> <br> 
-<b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau<br>
+Gu H., <b>Xian Y.</b>, Christy Unarta I., Yao Y.<br>
 <i>Accepted by the Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, 2022</i>.
 
 <br>
