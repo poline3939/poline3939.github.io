@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=6x-dGMAAAAAJ&hl=en)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -15,7 +15,7 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., and Yao Y.<br>
 <i>Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, 2022</i>.
 
 <br>
-<b> Selective Conference and Journal </b>
+<b> Conference and Journal </b>
 
 <b>[Data-driven tight frame for Cryo-EM image denoising and conformational classification](https://ieeexplore.ieee.org/abstract/document/8646614)</b> <br> 
 <b> Xian Y.</b>, Gu H., Wang W., Huang X., Yao Y., Wang Y., and Cai J.<br>
