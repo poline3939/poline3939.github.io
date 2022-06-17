@@ -1,10 +1,10 @@
 ---
-title: "Publications [(Google Scholar Profile)]([https://scholar.google.com.hk/citations?user=7A6ybEQAAAAJ&hl=en](https://scholar.google.com/citations?user=6x-dGMAAAAAJ&hl=en))"
+title: "Publications [(Google Scholar Profile)]https://scholar.google.com/citations?user=6x-dGMAAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Book Chapters]</b>
+<b> Book Chapters </b>
 
 <b>Randomized Kaczmarz method for single particle X-ray image phase retrieval</b>  <i>[Invited paper]<i> <br> 
 <b>Xian Y.</b>, Liu H., Tai X., Wang Y.<br>
@@ -15,7 +15,7 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., Yao Y.<br>
 <i>Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, 2022</i>.
 
 <br>
-<b>[Selective Conference and Journal]</b>
+<b> Selective Conference and Journal </b>
 
 <b>[Efficient Pre-Conditioned Descent Search Detector for Massive MU-MIMO](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9007506)</b> <br> 
 Chuan Zhang, Jiejun Jin, <b>Ye Xue</b>, Xiaosi Tan, Christoph Studer, Zaichen Zhang, Xiaohu You<br>
