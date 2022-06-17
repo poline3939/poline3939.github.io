@@ -4,15 +4,18 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Selected Publications]</b>
+<b>[Book Chapters]</b>
 
-<b>[Blind Data Detection in Massive MIMO via <i>ℓ</i><sub>3</sub>-norm Maximization over the Stiefel Manifold](https://arxiv.org/pdf/2004.12301.pdf)</b> <br> 
-<b>Ye Xue</b>, Yifei Shen, Vincent Lau, Jun Zhang, Khaled B. Letaief<br>
-<i>arXiv:2004.12301</i>.
+<b>[Randomized Kaczmarz method for single particle X-ray image phase retrieval]</b> <br> 
+<b>Xian Y.</b>, Liu H., Tai X., Wang Y.<br>
+<i>Accepted by the Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, 2022</i>.
 
-<b>[Complete Dictionary Learning via <i>ℓ</i><sub>p</sub>-norm Maximization](https://arxiv.org/pdf/2002.10043.pdf)</b> <br> 
+<b>[Generative Adversarial Networks for Robust Cryo-EM Image Denoising](https://arxiv.org/pdf/2008.07307.pdf)</b> <br> 
 <b>Ye Xue</b>\*, Yifei Shen\*, Jun Zhang, Khaled B. Letaief, Vincent Lau<br>
-<i>Accepted by The Conference on Uncertainty in Artificial Intelligence (UAI), 2020</i>.
+<i>Accepted by the Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, 2022</i>.
+
+<br>
+<b>[Selective Conference and Journal]</b>
 
 <b>[Efficient Pre-Conditioned Descent Search Detector for Massive MU-MIMO](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9007506)</b> <br> 
 Chuan Zhang, Jiejun Jin, <b>Ye Xue</b>, Xiaosi Tan, Christoph Studer, Zaichen Zhang, Xiaohu You<br>
