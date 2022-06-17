@@ -15,7 +15,7 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., and Yao Y.<br>
 <i>Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, 2022</i>.
 
 <br>
-<b> Conference and Journal </b>
+<b> Selective Conference and Journal </b>
 
 <b>[Data-driven tight frame for Cryo-EM image denoising and conformational classification](https://ieeexplore.ieee.org/abstract/document/8646614)</b> <br> 
 <b> Xian Y.</b>, Gu H., Wang W., Huang X., Yao Y., Wang Y., and Cai J.<br>
@@ -24,10 +24,22 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., and Yao Y.<br>
 <b>[Adaptive DCTNet for audio signal classification](https://ieeexplore.ieee.org/abstract/document/7952907)</b> <br> 
 <b>Xian Y.</b>,  Pu Y., Gan Z, Lu L., and Thompson A. <br>
 <i> IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017 </i>
-
+  
+<b> Modified DCTNet for audio signals classification </b> <br> 
+<b>Xian Y.</b>,  Pu Y., Gan Z, Lu L., and Thompson A. <br>
+<i> The Journal of the Acoustical Society of America, 2016 </i> 
+  
+<b> Intrinsic structure study of whale vocalizations </b> <br> 
+<b>Xian Y.</b>,  Pu Y., Gan Z, Lu L., and Thompson A. <br>
+<i> OCEANS 2016 MTS/IEEE Monterey, 2016 </i> 
+  
 <b>[Classification of whale vocalizations using the weyl transform](https://ieeexplore.ieee.org/abstract/document/7178074)</b> <br> 
 <b>Xian Y.</b>,  Thompson A., Qiu Q, Nolte N., Nowacek D. Lu J., and Calderbank A. <br>
-<i> IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2015 </i>  
+<i> IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014 </i>  
+
+<b> On marine mammal acoustic detection performance bounds </b> <br> 
+<b> Xian Y.</b>,  Zhang Y., Tantum S., and Nolte N. <br>
+<i> The Journal of the Acoustical Society of America, 2013 </i>    
 
 
 
