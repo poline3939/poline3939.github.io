@@ -29,8 +29,8 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., and Yao Y.<br>
 <b>Xian Y.</b>,  Pu Y., Gan Z, Lu L., and Thompson A. <br>
 <i> The Journal of the Acoustical Society of America, 2016 </i> 
   
-<b> Intrinsic structure study of whale vocalizations </b> <br> 
-<b>Xian Y.</b>,  Pu Y., Gan Z, Lu L., and Thompson A. <br>
+<b> [Intrinsic structure study of whale vocalizations](https://ieeexplore.ieee.org/abstract/document/7761101) </b> <br> 
+<b>Xian Y.</b>,  Sun X., Liao W., Zhang Y., Nowacek D. and Nolte N. <br>
 <i> OCEANS 2016 MTS/IEEE Monterey, 2016 </i> 
   
 <b>[Classification of whale vocalizations using the weyl transform](https://ieeexplore.ieee.org/abstract/document/7178074)</b> <br> 
