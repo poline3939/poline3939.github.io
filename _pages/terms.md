@@ -1,14 +1,12 @@
 ---
 permalink: /terms/
-title: "Teaching"
-modified: 2020-Nov
+title: "Service"
+modified: 2009-Nov
 ---
 
 
 ----
-## Basic Tools
-
-# Optimization  
+# Reviewer  
 *Optimization helps us to master the training.*  
 * Convex Optimization
     - Yurii, Nesterov. [Introductory lectures on convex optimization: A basic course](https://books.google.com.hk/books?hl=zh-TW&lr=&id=2-ElBQAAQBAJ&oi=fnd&pg=PA1&dq=introductory+lectures+on+convex+programming&ots=wmoQanrhmx&sig=QKUcatCgmqwHNej6QSawSY6BZ6U&redir_esc=y#v=onepage&q=introductory%20lectures%20on%20convex%20programming&f=false). Vol. 87. Springer Science & Business Media, 2013.
@@ -17,7 +15,7 @@ modified: 2020-Nov
  * Nonconvex Optimization
      - Prof. Sun's website: <https://sunju.org/research/nonconvex/>
 
-# Statistic
+# Seminar Organization
 *Statistic characterizes the generalization property of the learning scheme.*
 * High-dimensional Probability
     -  Roman Vershynin, [High-dimensional probability: An introduction with applications in data science.](https://www.math.uci.edu/~rvershyn/) Vol. 47. Cambridge university press, 2018.
@@ -25,7 +23,7 @@ modified: 2020-Nov
 * Statistic for machine learning
     - Vladimir Vapnik,  [The nature of statistical learning theory](https://statisticalsupportandresearch.files.wordpress.com/2017/05/vladimir-vapnik-the-nature-of-statistical-learning-springer-2010.pdf). Springer, 2013.
     
-# Geometry and Algebra
+# Activities
 *Geometry and Algebra provide a fundamental tool for understanding a machine learning process.*
 * Linear Algebra
     - Sheldon  Axler, [Linear algebra done right](https://linear.axler.net/). springer, 2015.
