@@ -50,8 +50,6 @@ Cai J., Miao L., Wang Y. and <b> Xian Y.</b> <br>
 <b> [DCTNet and PCANet for acoustic siganls feature extraction](https://arxiv.org/pdf/1605.01755.pdf) </b> <br> 
 <b> Xian Y.</b>, Thompson A., Sun X., Nowacek D., and Nolte L. <br>  
   
-<b> [Uncertainty quantification of modified Cahn-Hilliard equation for image inpainting](https://arxiv.org/pdf/1906.07264.pdf) </b> <br> 
-<b> Xian Y.</b>
 
 [\* denotes equal contribution]
 
