@@ -43,7 +43,15 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., and Yao Y.<br>
 
 <br>
 <b> Preprint </b>
+  
+<b> [Provable Near-Optimal Low-Multilinear-Rank Tensor Recovery](https://arxiv.org/pdf/2007.08904.pdf) </b> <br> 
+Cai J., Miao L., Wang Y. and <b> Xian Y.</b> <br>
 
+<b> [DCTNet and PCANet for acoustic siganls feature extraction](https://arxiv.org/pdf/1605.01755.pdf) </b> <br> 
+<b> Xian Y.</b>, Thompson A., Sun X., Nowacek D., and Nolte L. <br>  
+  
+<b> [Uncertainty quantification of modified Cahn-Hilliard equation for image inpainting](https://arxiv.org/pdf/1906.07264.pdf) </b> <br> 
+<b> Xian Y.</b>
 
 [\* denotes equal contribution]
 
