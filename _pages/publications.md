@@ -30,15 +30,15 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., and Yao Y.<br>
 <i> The Journal of the Acoustical Society of America, 2016 </i> 
   
 <b> [Intrinsic structure study of whale vocalizations](https://ieeexplore.ieee.org/abstract/document/7761101) </b> <br> 
-<b>Xian Y.</b>,  Sun X., Liao W., Zhang Y., Nowacek D. and Nolte N. <br>
+<b>Xian Y.</b>,  Sun X., Liao W., Zhang Y., Nowacek D. and Nolte L. <br>
 <i> OCEANS 2016 MTS/IEEE Monterey, 2016 </i> 
   
 <b>[Classification of whale vocalizations using the weyl transform](https://ieeexplore.ieee.org/abstract/document/7178074)</b> <br> 
-<b>Xian Y.</b>,  Thompson A., Qiu Q, Nolte N., Nowacek D. Lu J., and Calderbank A. <br>
+<b>Xian Y.</b>,  Thompson A., Qiu Q, Nolte L., Nowacek D. Lu J., and Calderbank R. <br>
 <i> IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014 </i>  
 
 <b> On marine mammal acoustic detection performance bounds </b> <br> 
-<b> Xian Y.</b>,  Zhang Y., Tantum S., and Nolte N. <br>
+<b> Xian Y.</b>,  Zhang Y., Tantum S., and Nolte L. <br>
 <i> The Journal of the Acoustical Society of America, 2013 </i>    
 
 <br>
