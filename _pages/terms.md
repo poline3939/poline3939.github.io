@@ -4,7 +4,6 @@ title: "Service"
 modified: 2009-Nov
 ---
 
-----
 # Reviewer   
 * IEEE Signal Processing Letter; 
 * The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD); 
@@ -15,10 +14,6 @@ modified: 2009-Nov
 
 # Seminar Organizer
 * Applied Mathematics Seminar, The Mathematics Department of Hong Kong University of Science and Technology, July 2017 - 2020.
-    
-    
-# Student mentoring
-* Students in Applied Mathematics of the Mathematics Department of Hong Kong University of Science and Technology, July 2017 - 2020.
 
 
 # Volunteer Service 
