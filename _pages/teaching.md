@@ -12,5 +12,5 @@ author_profile: true
 <b> Teaching assistant, Duke University (January 2014 - December 2014) </b>  <br> 
 <i> Assist to teach ECE 581: Random Signal and Noise, ECE 280L: Signal and System. Grade homeworks and exams, hold office hour for students' questions, and present tutorial sessions.  </i>.
 
-<b> Lecturer, Duke University  </b>  <br> 
+<b> Lecturer, Duke University (November 2013)  </b>  <br> 
 <i> Teach ECE 495: Signal Representation and Analysis. Lecture knowledge of blind source separation algorithms, such as infomax, maximum likelihood estimate, and independent component analysis (ICA) to students. </i>.
