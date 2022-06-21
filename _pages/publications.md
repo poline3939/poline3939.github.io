@@ -16,7 +16,11 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., and Yao Y.<br>
 
 <br>
 <b> Selective Conference and Journal </b>
-
+  
+<b> Variance-reduced randomized Kaczmarz method in XFEL single-particle imaging phase retrieval </b> <br> 
+<b> Xian Y.</b>, Liu H., Tai X., and Wang Y.<br>
+<i> IEEE International Conference in Image Processing (ICIP), 2022</i>.
+  
 <b>[Data-driven tight frame for Cryo-EM image denoising and conformational classification](https://ieeexplore.ieee.org/abstract/document/8646614)</b> <br> 
 <b> Xian Y.</b>, Gu H., Wang W., Huang X., Yao Y., Wang Y., and Cai J.<br>
 <i> IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018</i>.
