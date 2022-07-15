@@ -7,7 +7,7 @@ author_profile: true
 <br>
 
 <b> Lecturer, Hong Kong University of Science and Technology (July 2017 - 2020) </b>  <br> 
-<i> Teach Math 1024: Calculus and Linear Algebra, to HKIST students of large class (90-100 students). Lecture knowledge of indefinite and definite integral and their application, convergence of sequences and series, and rules of differentiation to students. </i>.
+<i> Teach Math 1024: Calculus and Linear Algebra, to HKUST students of large class (90-100 students). Lecture knowledge of indefinite and definite integral and their application, convergence of sequences and series, and rules of differentiation to students. </i>.
 
 <b> Teaching assistant, Duke University (January 2014 - December 2014) </b>  <br> 
 <i> Assist to teach ECE 581: Random Signal and Noise, and ECE 280L: Signal and System. Grade homeworks and exams, hold office hour for students' questions, and present tutorial sessions.  </i>.
