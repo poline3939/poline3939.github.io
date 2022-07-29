@@ -5,7 +5,7 @@ modified: 2009-Nov
 ---
 <br>
 
-* Section Chair  
+* Session Chair  
   - SIAM Conference on Mathematics of Data Science (MDS) 2022.
 
 <br>
