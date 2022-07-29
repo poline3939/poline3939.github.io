@@ -4,13 +4,16 @@ title: "Service"
 modified: 2009-Nov
 ---
 <br>
+* Section Chair  
+  - SIAM Conference on Mathematics of Data Science (MDS) 2022.
 
+<br>
 * Reviewer   
   - IEEE Signal Processing Letter; 
   - The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD); 
   - Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging; 
   - Applied and Computational Harmonic Analysis (ACHA); 
-  - Journal of Machine Learning Research (JMLR)
+  - Journal of Machine Learning Research (JMLR).
 
 <br>
 
