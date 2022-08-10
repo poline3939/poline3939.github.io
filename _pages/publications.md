@@ -6,7 +6,7 @@ author_profile: true
 <br>
 <b> Book Chapters </b>
 
-<b>Randomized Kaczmarz method for single particle X-ray image phase retrieval</b>  <i>[Invited paper]<i> <br> 
+<b>[Randomized Kaczmarz method for single particle X-ray image phase retrieval](https://arxiv.org/pdf/2207.04736.pdf)</b>  <i>[Invited paper]<i> <br> 
 <b>Xian Y.</b>, Liu H., Tai X., and Wang Y.<br>
 <i>Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, 2022</i>.
 
