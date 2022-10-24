@@ -10,6 +10,11 @@ modified: 2009-Nov
 
 <br>
 
+* Technical Program Committee  
+  - 2022 International Conference on Applied Mathematics and Digital Simulation (AMDS 2022).
+
+<br>
+
 * Reviewer   
   - IEEE Signal Processing Letter; 
   - The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD); 
