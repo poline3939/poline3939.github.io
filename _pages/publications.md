@@ -17,7 +17,7 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., and Yao Y.<br>
 <br>
 <b> Selective Conference and Journal </b>
   
-<b> Variance-reduced randomized Kaczmarz method in XFEL single-particle imaging phase retrieval </b> <br> 
+<b> [Variance-reduced randomized Kaczmarz method in XFEL single-particle imaging phase retrieval](https://ieeexplore.ieee.org/document/9897750) </b> <br> 
 <b> Xian Y.</b>, Liu H., Tai X., and Wang Y.<br>
 <i> IEEE International Conference in Image Processing (ICIP), 2022</i>.
   
