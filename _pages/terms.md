@@ -16,7 +16,7 @@ modified: 2009-Nov
 <br>
 
 * Reviewer   
-  - International Conference on Learning Representations (ICLR);
+  - The International Conference on Learning Representations (ICLR);
   - IEEE Signal Processing Letter; 
   - The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD); 
   - Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging; 
