@@ -17,6 +17,7 @@ modified: 2009-Nov
 
 * Reviewer   
   - The International Conference on Learning Representations (ICLR);
+  - IEEE Transaction of Signal Processing (TSP);
   - IEEE Signal Processing Letter; 
   - The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD); 
   - Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging; 
