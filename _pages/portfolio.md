@@ -14,8 +14,4 @@ author_profile: true
 * Graduation with Distinction, Hunan Ministry of Education and Hunan University, 2009.
 
 
----
-title: "Media Coverage"
-permalink: /portfolio/
-author_profile: true
----
+
