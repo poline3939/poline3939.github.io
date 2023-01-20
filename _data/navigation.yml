@@ -11,12 +11,14 @@ main:
     
   - title: "Award"
     url: /portfolio/
+    
+  - title: "Service"
+    url: /terms/
   
   - title: "Media Coverage"
     url: /MLT/
         
-  - title: "Service"
-    url: /terms/
+
     
 
     
