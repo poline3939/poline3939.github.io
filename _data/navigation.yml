@@ -12,8 +12,8 @@ main:
   - title: "Award"
     url: /portfolio/
   
- # - title: "CV"
- #   url: /cv/
+  - title: "Media Coverage"
+    url: /cv/
         
   - title: "Service"
     url: /terms/
