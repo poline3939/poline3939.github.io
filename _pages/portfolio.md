@@ -12,3 +12,10 @@ author_profile: true
 * Graduate Student Travel Award, Duke University, 2014 - 2015. 
 * John T. Chambers Fellowship, Duke University, 2009-2010.
 * Graduation with Distinction, Hunan Ministry of Education and Hunan University, 2009.
+
+
+---
+title: "Media Coverage"
+permalink: /portfolio/
+author_profile: true
+---
