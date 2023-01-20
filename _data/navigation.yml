@@ -13,7 +13,7 @@ main:
     url: /portfolio/
   
   - title: "Media Coverage"
-    url: /cv/
+    url: /media/
         
   - title: "Service"
     url: /terms/
