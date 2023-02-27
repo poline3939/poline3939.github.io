@@ -19,6 +19,7 @@ modified: 2009-Nov
   - The International Conference on Learning Representations (ICLR);
   - IEEE Transaction of Signal Processing (TSP);
   - IEEE Signal Processing Letter; 
+  - The International Joint Conference on Artificial Intelligence (IJCAI);
   - The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD); 
   - Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging; 
   - Applied and Computational Harmonic Analysis (ACHA); 
