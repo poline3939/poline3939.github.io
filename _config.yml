@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "XIAN Yin, Poline's homepage"
+title                    : "Shin Yan, Poline's homepage"
 title_separator          : "-"
-name                     : &name "XIAN Yin"
+name                     : &name "Shin Yan"
 description              : &description "Staff Researcher, Hong Kong Science and Technology Parks"
 url                      : https://poline3939.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xian Yin"
+  name             : "Shin Yan"
   avatar           : #"myphoto.jpg"
   bio              : "Hong Kong Science and Technology Parks"
   location         : "Science Park, Hong Kong"
