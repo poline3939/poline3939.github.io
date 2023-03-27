@@ -10,15 +10,17 @@ modified: 2009-Nov
 
 <br>
 
-* Technical Program Committee  
+* Technical Program Committee
+  - The International Joint Conference on Artificial Intelligence (IJCAI) 2023;
   - 2022 International Conference on Applied Mathematics and Digital Simulation (AMDS 2022).
 
 <br>
 
 * Reviewer   
   - The International Conference on Learning Representations (ICLR);
-  - IEEE Transaction of Signal Processing (TSP);
-  - IEEE Signal Processing Letter; 
+  - IEEE Transactions of Signal Processing (TSP);
+  - IEEE Signal Processing Letter (SPL); 
+  - IEEE Transactions on Human-Machine Systems (THMS);
   - The International Joint Conference on Artificial Intelligence (IJCAI);
   - The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD); 
   - Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging; 
