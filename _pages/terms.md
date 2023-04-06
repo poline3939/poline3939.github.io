@@ -13,6 +13,7 @@ modified: 2009-Nov
 * Technical Program Committee
   - The International Joint Conference on Artificial Intelligence (IJCAI) 2023;
   - 2022 International Conference on Applied Mathematics and Digital Simulation (AMDS 2022).
+  - The International Conference on Learning Representations (ICLR) 2023
 
 <br>
 
