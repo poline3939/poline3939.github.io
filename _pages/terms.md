@@ -19,12 +19,12 @@ modified: 2009-Nov
 <br>
 
 * Reviewer   
-  - The International Conference on Learning Representations (ICLR);
   - IEEE Transactions of Signal Processing (TSP);
   - IEEE Signal Processing Letter (SPL); 
   - IEEE Transactions on Human-Machine Systems (THMS);
   - The International Joint Conference on Artificial Intelligence (IJCAI);
-  - Transactions on Machine Learning Research (TMLR)
+  - The International Conference on Learning Representations (ICLR);
+  - Transactions on Machine Learning Research (TMLR);
   - Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging; 
   - The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD); 
   - Applied and Computational Harmonic Analysis (ACHA); 
