@@ -1,11 +1,10 @@
 ---
-title: "Resource"
+title: "Media Coverage"
 permalink: /MLT
 author_profile: true
 ---
 <br>
-
-# Media Coverage  
+ 
 
 * Hong Kong ICT Association Press: AR-VR Compatible Head-Mounted Display (HMD) with Sensing wins award at Hong Kong ICT Awards, November 2022
 * Hong Kong ICT Association Press: AR-VR Compatible Head-Mounted Display (HMD) displayed at Hong Kong ICT Expo, October, 2022.
