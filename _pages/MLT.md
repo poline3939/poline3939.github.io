@@ -5,9 +5,10 @@ author_profile: true
 ---
 <br>
 
-# Optimization  
-*Optimization helps us to master the training. It tells us why those simple method (e.g., SGD) can find  good parameters.*  
-* Convex Optimization
+# Media Coverage  
+* Optimization helps us to master the training. It tells us why those simple method (e.g., SGD) can find  good parameters.*  
+* Hong Kong ICT Association Press: AR-VR Compatible Head-Mounted Display (HMD) with Sensing wins award at Hong Kong ICT Awards, November 2022
+* 
     - Nesterov, Yurii. [Introductory lectures on convex optimization: A basic course](https://books.google.com.hk/books?hl=zh-TW&lr=&id=2-ElBQAAQBAJ&oi=fnd&pg=PA1&dq=introductory+lectures+on+convex+programming&ots=wmoQanrhmx&sig=QKUcatCgmqwHNej6QSawSY6BZ6U&redir_esc=y#v=onepage&q=introductory%20lectures%20on%20convex%20programming&f=false). Vol. 87. Springer Science & Business Media, 2013.
     - Boyd, Stephen, Stephen P. Boyd, and Lieven Vandenberghe. [Convex optimization.](https://web.stanford.edu/~boyd/cvxbook/) Cambridge university press, 2004.
  
