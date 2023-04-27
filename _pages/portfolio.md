@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 * Hong Kong Information and Communication Technology (ICT) Smart Business Award, 2022.
+* Communication Technology ICT Innovation Award of Hong Kong, 2022.
 * Research Exchange Fellowship, Hong Kong & China Science Foundation, 2018 - 2020.
 * Research Travel Grant, Hong Kong University of Science and Technology, 2019. 
 * Bass Summer Research Fellowship, Duke University, 2015. 
