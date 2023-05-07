@@ -43,7 +43,8 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., and Yao Y.<br>
 
 <b> On marine mammal acoustic detection performance bounds </b> <br> 
 <b> Xian Y.</b>,  Zhang Y., Tantum S., and Nolte L. <br>
-<i> The Journal of the Acoustical Society of America, 2013 </i>    
+<i> The Journal of the Acoustical Society of America, 2013 </i>   
+    
 
 <br>
 <b> Preprint </b>
@@ -53,6 +54,22 @@ Cai J., Miao L., Wang Y. and <b> Xian Y.</b> <br>
 
 <b> [DCTNet and PCANet for acoustic siganls feature extraction](https://arxiv.org/pdf/1605.01755.pdf) </b> <br> 
 <b> Xian Y.</b>, Thompson A., Sun X., Nowacek D., and Nolte L. <br>  
+  
+<br>
+<b> Technical Reports </b>
+  
+<b> Positioning with the mmWave signals </b> <br> 
+<b> Xian Y.</b> <br>
+<i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i>
+
+<b> Physical uplink shared channel (PUSCH) scheduling based on the sounding reference signals (SRS) </b> <br> 
+<b> Xian Y.</b> <br>    
+<i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i>
+  
+  
+<b> Matrix factorization on MMSE matrix computation acceleration </b> <br> 
+<b> Xian Y.</b> <br>    
+<i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i> 
   
 
 [\* denotes equal contribution]
