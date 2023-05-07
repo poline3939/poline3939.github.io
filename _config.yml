@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shin Yan, Poline's homepage"
+title                    : "Shin Yan (Xian Yin), Poline's homepage"
 title_separator          : "-"
 name                     : &name "Shin Yan"
 description              : &description "Staff Researcher, Hong Kong Science and Technology Parks"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Shin Yan (冼殷)"
-  avatar           : #"myphoto.jpg"
+  avatar           : "myphoto.jpeg"
   bio              : "Hong Kong Science and Technology Parks"
   location         : "Science Park, Hong Kong"
   employer         : 
