@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://github.com/poline3939/poline3939.github.io/blob/master/images/lake_hk.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
-</p>
+#<p align="center">
+#  <img src="https://github.com/poline3939/poline3939.github.io/blob/master/images/lake_hk.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+# </p>
 
 # About Me
 * I am a staff researcher in the [Hong Kong Science and Technology Parks](https://www.hkstp.org). I received my PhD degree from Department of Electrical and Computer Engineering of [Duke University](https://duke.edu/) in May 2016. After that I had been a researcher and lecturer of Department of Mathematics in [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) and [Duke University](https://duke.edu/). I have worked as a lead engineer in the [Hong Kong Applied Science and Technology Research Institute (ASTRI)](https://www.astri.org/) from 2020 to 2022. I had also been a researcher of [Hausdorff Institute of Mathematics](https://www.him.uni-bonn.de/) of [the University of Bonn](https://www.him.uni-bonn.de/) in Germany in 2016. 
