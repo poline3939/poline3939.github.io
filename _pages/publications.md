@@ -54,19 +54,31 @@ Cai J., Miao L., Wang Y. and <b> Xian Y.</b> <br>
 
 <b> [DCTNet and PCANet for acoustic siganls feature extraction](https://arxiv.org/pdf/1605.01755.pdf) </b> <br> 
 <b> Xian Y.</b>, Thompson A., Sun X., Nowacek D., and Nolte L. <br>  
+
+<br>
+<b> Patents </b>
+  
+<b> Method and apparatus of adaptive transmission based on the ultra wide-band signals </b> <br> 
+C. Mao and <b> Xian Y.</b> <br>
+
+<b> Method and apparatus of localization based on the free-space optical signals </b> <br> 
+C. Mao <b> Xian Y.</b> <br>    
   
 <br>
 <b> Technical Reports </b>
   
 <b> Positioning with the mmWave signals </b> <br> 
-<b> Xian Y.</b> <br>  <i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i>
+<b> Xian Y.</b> <br>
+<i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i>
 
 <b> Physical uplink shared channel (PUSCH) scheduling based on the sounding reference signals (SRS) </b> <br> 
-<b> Xian Y.</b> <br>  <i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i>
+<b> Xian Y.</b> <br>    
+<i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i>
   
   
 <b> Matrix factorization on MMSE matrix computation acceleration </b> <br> 
-<b> Xian Y.</b> <br> <i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i> 
+<b> Xian Y.</b> <br>    
+<i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i> 
   
 
 [\* denotes equal contribution]
