@@ -68,14 +68,14 @@ Mao C. <b> Xian Y.</b> <br>
 <b> Technical Reports </b>
   
 <b> Positioning with the mmWave signals </b> <br> 
-<b> Xian Y.</b> <br>, <i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i>.
+<b> Xian Y.</b> , <i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i>.
 
 <b> Physical uplink shared channel (PUSCH) scheduling based on the sounding reference signals (SRS) </b> <br> 
-<b> Xian Y.</b> <br>, <i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i>.
+<b> Xian Y.</b> , <i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i>.
   
   
 <b> Matrix factorization on MMSE matrix computation acceleration </b> <br> 
-<b> Xian Y.</b> <br>,   <i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i> .
+<b> Xian Y.</b> ,   <i> Hong Kong Applied Science and Technology Research Institute (ASTRI)  </i> .
   
 
 [\* denotes equal contribution]
