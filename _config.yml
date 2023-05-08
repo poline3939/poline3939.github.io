@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shin Yan (Xian Yin), Poline's homepage"
 title_separator          : "-"
-name                     : &name "Shin Yan"
+name                     : &name "Shin Yan (Xian Yin)"
 description              : &description "Staff Researcher, Hong Kong Science and Technology Parks"
 url                      : https://poline3939.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
