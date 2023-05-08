@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
- <img src="https://github.com/poline3939/poline3939.github.io/blob/master/images/lake_hk.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
-</p>
 
 <p align="center">
-  <img src="https://github.com/poline3939/poline3939.github.io/blob/master/images/lake_hk。jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://github.com/poline3939/poline3939.github.io/blob/master/images/lake_hk.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
 # About Me
