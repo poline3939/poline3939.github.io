@@ -4,8 +4,8 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_back/
+  - /about_back.html
 ---
 
 #<p align="center">
