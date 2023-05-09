@@ -59,10 +59,10 @@ Cai J., Miao L., Wang Y. and <b> Xian Y.</b> <br>
 <b> Patents </b>
   
 <b> Method and apparatus of adaptive transmission based on the ultra wide-band signals </b> <br> 
-Mao C. and <b> Xian Y.</b> <br>
+<b> Xian Y.</b> and  Mao C. <br>
 
 <b> Method and apparatus of localization based on the free-space optical signals </b> <br> 
-Mao C. <b> Xian Y.</b> <br>    
+<b> Xian Y.</b> and  Mao C. <br>
   
 <br>
 <b> Technical Reports </b>
