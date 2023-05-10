@@ -19,8 +19,8 @@ redirect_from:
 
 
 # Recent Highlights
-* Feburary 2023: I serve as a reviewer for the [International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org/), and the [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78). 
-* January 2023: I serve as a reviewer for the [International Conference on Learning Representations (ICLR) 2023](https://iclr.cc/).
+* Feburary 2023: I serve as a program committee member and reviewer for the [International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org/), and the [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78). 
+* January 2023: I serve as a program committee member and reviewer for the [International Conference on Learning Representations (ICLR) 2023](https://iclr.cc/).
 * September 2022: I am the Session Chair on Image Application of 2022 [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22?_ga=2.240695686.449870411.1654046966-1548619038.1643186184). 
 * June 2022: I am invited to give talks on 2022 SIAM Meeting of Mathematics of Data Science.  
 * June 2022: Our phase retrieval paper and generative adversarial network (GAN) paper are accepted by the 2022 [IEEE International Conference in Image Processing (ICIP)](https://2022.ieeeicip.org/) and [Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging](https://link.springer.com/referencework/10.1007/978-3-030-03009-4). 
