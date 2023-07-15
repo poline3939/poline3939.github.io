@@ -13,12 +13,13 @@ redirect_from:
 </p>
 
 # About Me
-* I am a staff researcher in the [Hong Kong Science and Technology Parks](https://www.hkstp.org). I received my PhD degree from Department of Electrical and Computer Engineering of [Duke University](https://duke.edu/) in May 2016. After that I had been a researcher and lecturer of Department of Mathematics in [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) and [Duke University](https://duke.edu/). I have worked as a lead engineer in the [Hong Kong Applied Science and Technology Research Institute (ASTRI)](https://www.astri.org/) from 2020 to 2022. I had also been a researcher of [Hausdorff Institute of Mathematics](https://www.him.uni-bonn.de/) of [the University of Bonn](https://www.him.uni-bonn.de/) in Germany in 2016. 
+* I am a research scientist at the [Hong Kong Science and Technology Parks](https://www.hkstp.org). I received my Ph.D. degree from the Department of Electrical and Computer Engineering of [Duke University](https://duke.edu/) in May 2016. After that, I had been a researcher and lecturer at the Department of Mathematics at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/home) and [Duke University](https://duke.edu/). I have worked as a lead engineer at the [Hong Kong Applied Science and Technology Research Institute (ASTRI)](https://www.astri.org/) from 2020 to 2022. I had also been a researcher at [Hausdorff Institute of Mathematics](https://www.him.uni-bonn.de/) of [the University of Bonn](https://www.him.uni-bonn.de/) in Germany in 2016. 
 
-* My research interests lie in the general area of signal processing, high-dimensional data analysis, non-convex optimization and applications. 
+* My research interests lie in the general area of signal processing, high-dimensional data analysis, non-convex optimization, and applications. 
 
 
 # Recent Highlights
+* March 2023: I served as a technical program committee member for the [International Conference of Learning Representation (ICLR)](https://iclr.cc/Conferences/2023) and the [International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai-23.org/) this year.
 * November 2022: Our developed AR-VR head-mount display received Hong Kong Information and Communication Technology (ICT) Smart Business Award. 
 * September 2022: I am the Session Chair on Image Application of 2022 [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22?_ga=2.240695686.449870411.1654046966-1548619038.1643186184). 
 * June 2022: I am invited to give talks on 2022 SIAM Meeting of Mathematics of Data Science.  
