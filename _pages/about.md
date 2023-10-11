@@ -19,8 +19,9 @@ redirect_from:
 
 
 # Recent Highlights
+* August 2023: I served as a session chair of the [International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai-23.org/), and served as a technical program committee member for the [IEEE International Conference on Agents (ICA) 2023](https://www.computer.org/conferences/ica-2023) and the [2023 International Symposium on Wireless Personal Multimedia Communications (WPMC2023)](http://wpmc2023.com/).  
 * March 2023: I served as a technical program committee member for the [International Conference of Learning Representation (ICLR)](https://iclr.cc/Conferences/2023) and the [International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai-23.org/) this year.
-* November 2022: Our developed AR-VR head-mount display received Hong Kong Information and Communication Technology (ICT) Smart Business Award. 
+* November 2022: Our developed AR-VR head-mount display received the Hong Kong Information and Communication Technology (ICT) Smart Business Award. 
 * September 2022: I am the Session Chair on Image Application of 2022 [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22?_ga=2.240695686.449870411.1654046966-1548619038.1643186184). 
-* June 2022: I am invited to give talks on 2022 SIAM Meeting of Mathematics of Data Science.  
+* June 2022: I was invited to talk at the 2022 SIAM Meeting of Mathematics of Data Science.  
 * June 2022: Our phase retrieval paper and generative adversarial network (GAN) paper are accepted by the 2022 [IEEE International Conference in Image Processing (ICIP)](https://2022.ieeeicip.org/) and [Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging](https://link.springer.com/referencework/10.1007/978-3-030-03009-4). 
