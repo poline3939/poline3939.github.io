@@ -29,6 +29,7 @@ modified: 2009-Nov
   - The International Conference on Learning Representations (ICLR);
   - Transactions on Machine Learning Research (TMLR);
   - Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging;
+  - The IEEE International Symposium on Biomedical Imaging (ISBI); 
   - The IEEE International Conference on Agents (ICA);
   - The International Symposium On Wireless Personal Multimedia Communications (WPMC);
   - The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD); 
