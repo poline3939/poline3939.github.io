@@ -19,7 +19,7 @@ redirect_from:
 
 
 # Recent Highlights
-* November 2023: I am invited as a reviewer for the [IEEE International Symposium on Biomedical Imaging (ISBI)](https://biomedicalimaging.org/2024/), and have organized a guest lecture on cybersecurity and blockchain technology at the Hong Kong Baptist University. 
+* November 2023: I am invited as a reviewer for the [IEEE International Symposium on Biomedical Imaging (ISBI)](https://biomedicalimaging.org/2024/), and have organized guest lectures on cybersecurity and blockchain technology at the Hong Kong Baptist University. 
 * August 2023: I served as a session chair of the [International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai-23.org/), and served as a technical program committee member for the [IEEE 2023 International Conference on Agents (ICA)](https://www.computer.org/conferences/ica-2023) and the [26th International Symposium on Wireless Personal Multimedia Communications (WPMC2023)](http://wpmc2023.com/).  
 * March 2023: I served as a technical program committee member for the [International Conference of Learning Representation (ICLR)](https://iclr.cc/Conferences/2023) and the [International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai-23.org/) this year.
 * November 2022: Our developed AR-VR head-mount display received the Hong Kong Information and Communication Technology (ICT) Smart Business Award. 
