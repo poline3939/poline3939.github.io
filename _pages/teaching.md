@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<be>
+<br>
 
 <b> Lecturer, Hong Kong Baptist University (September 2023) </b>  <br> 
 <i> Teach Cybersecurity, Blockchain, and IT management to the Baptist University students. Lecture knowledge of AI, blockchain, cybersecurity, machine learning, and business management to students. </i>.
