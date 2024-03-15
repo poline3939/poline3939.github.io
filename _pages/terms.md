@@ -6,17 +6,17 @@ modified: 2009-Nov
 <br>
 
 * Session Chair
-  - The International Joint Conference on Artificial Intelligence (IJCAI) 2023;
-  - SIAM Conference on Mathematics of Data Science (MDS) 2022.
+  - [The International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org/);
+  - [SIAM Conference on Mathematics of Data Science (MDS) 2022](https://www.siam.org/conferences/cm/conference/mds22).
 
 <br>
 
 * Technical Program Committee
-  - The International Joint Conference on Artificial Intelligence (IJCAI) 2023, 2024;
-  - The International Conference on Learning Representations (ICLR) 2023;
-  - The IEEE International Conference on Agents (ICA) 2023;
-  - The 26th International Symposium On Wireless Personal Multimedia Communications (WPMC 2023); 
-  - 2022 International Conference on Applied Mathematics and Digital Simulation (AMDS 2022).
+  - [The International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org/), [2024](https://ijcai24.org/);
+  - [The International Conference on Learning Representations (ICLR) 2023](https://iclr.cc/Conferences/2023);
+  - [The IEEE International Conference on Agents (ICA) 2023](https://confaid.com/ieee-ica2023/);
+  - [The 26th International Symposium On Wireless Personal Multimedia Communications (WPMC 2023)](https://www.comsoc.org/conferences-events/international-symposium-wireless-personal-multimedia-communications-2023); 
+  - [2022 International Conference on Applied Mathematics and Digital Simulation (AMDS 2022)](https://www.amds-conf.com/committee).
 
 
 <br>
