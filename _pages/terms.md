@@ -12,7 +12,7 @@ modified: 2009-Nov
 <br>
 
 * Technical Program Committee
-  - The International Joint Conference on Artificial Intelligence (IJCAI) 2023;
+  - The International Joint Conference on Artificial Intelligence (IJCAI) 2023, 2024;
   - The International Conference on Learning Representations (ICLR) 2023;
   - The IEEE International Conference on Agents (ICA) 2023;
   - The 26th International Symposium On Wireless Personal Multimedia Communications (WPMC 2023); 
