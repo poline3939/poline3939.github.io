@@ -12,7 +12,7 @@ author_profile: true
 * The Conference Travel Award, The 7th International Conference of Detection, Classification, Localization and Density Estimation (DCLDE), 2015.
 * Graduate Student Travel Award, Duke University, 2014 - 2015. 
 * John T. Chambers Fellowship, Duke University, 2009-2010.
-* Graduation with Distinction, Hunan Ministry of Education and Hunan University, 2009.
+* Graduate Student Fellowship, Duke University, 2009-2013.
 
 
 
