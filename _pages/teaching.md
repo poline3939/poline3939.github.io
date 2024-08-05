@@ -7,7 +7,8 @@ author_profile: true
 <br>
 
 * <b> Lecturer I,  Hong Kong Baptist University (September 2023 - now) </b>  <br> 
-<i> - Course development and lecture knowledge in Data Science division: Network and Data Security, Deep Learning, and IT management. 
+<i>
+    - Course development and lecture knowledge in Data Science division: Network and Data Security, Deep Learning, and IT management. 
     - Serve as Academic Coordinat or and Course Coordinator at School of Continuing Education, Hong Kong Baptist University.
     - Organize guest lectures and seminars in data science. Lead outreach student study tour in Japan. </i>
 
