@@ -12,8 +12,8 @@ modified: 2009-Nov
 <br>
 
 * Session Chair
-  - [The International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org/);
-  - [SIAM Conference on Mathematics of Data Science (MDS) 2022](https://www.siam.org/conferences/cm/conference/mds22).
+  - [The International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai-23.org/);
+  - [SIAM Conference on Mathematics of Data Science (MDS)](https://www.siam.org/conferences/cm/conference/mds22).
 
 <br>
 
