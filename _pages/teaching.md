@@ -7,7 +7,7 @@ author_profile: true
 <br>
 
 <b> Lecturer I,  Hong Kong Baptist University (September 2023 - now) </b>  <br> 
-<i> Course development and teach Cybersecurity, Blockchain, and IT management to the Baptist University students. 
+<i> Course development and teach Network and Data Security, Deep Learning, and IT management to Hong Kong Baptist University students. 
   Lecture knowledge of AI, blockchain, cybersecurity, machine learning, and business management to students. </i>.
 
 <b> Lecturer, Hong Kong University of Science and Technology (HKUST) (July 2017 - 2020) </b>  <br> 
