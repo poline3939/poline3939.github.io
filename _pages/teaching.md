@@ -6,16 +6,20 @@ author_profile: true
 
 <br>
 
-*  Lecturer I,  Hong Kong Baptist University (September 2023 - now)  <br> 
-    - Course development and lecture knowledge in Data Science division: Network and Data Security, Deep Learning, and IT management. 
-    - Serve as Academic Coordinat or and Course Coordinator at School of Continuing Education, Hong Kong Baptist University.
-    - Organize guest lectures and seminars in data science. Lead outreach student study tour in Japan. 
+*  Lecturer I,  Hong Kong Baptist University (September 2023 - now)  <br>
+    - Serve as Academic Coordinator and Course Coordinator at School of Continuing Education.
+    - Course development and lecture knowledge in Data Science division: Network and Data Security, Deep Learning, and IT management. Supervise students with their study and graduation projects. 
+    - Organize guest lectures and seminars in data science. Lead outreach student study tour in Japan.
 
-<b> Lecturer, Hong Kong University of Science and Technology (HKUST) (July 2017 - 2020) </b>  <br> 
-<i> Teach Calculus and Linear Algebra, to HKUST students. Lecture knowledge of indefinite and definite integral and their application, convergence of sequences and series, and rules of differentiation to students. </i>
 
-<b> Teaching Assistant, Duke University (January 2014 - December 2014) </b>  <br> 
-<i> Assist in teaching Random Signal and Noise course, and Signal and System course. Grade homework and exams, hold office hours for student's questions, and present tutorial sessions.  </i>
+*  Lecturer, Hong Kong University of Science and Technology (HKUST) (July 2017 - 2020)  <br> 
+   - Course development on calculus, linear algebra, and basic signal processing.
+   - Assist in graduation students' research supervision.
+   - Offer advice to industry partners for products improvement.
 
-<b> Lecturer, Duke University (November 2013)  </b>  <br> 
-<i> Teach ECE 495: Signal Representation and Analysis. Lecture knowledge of blind source separation algorithms, such as infomax, maximum likelihood estimate, and independent component analysis (ICA) to students. </i>
+
+*  Lecturer and Teaching Assistant, Duke University (January 2014 - July 2017)  <br> 
+   - Course development and lecture signal processing courses, instruct optimization theory adn algorithms.
+   - Support studnets in national data analysis competions, such as Ocean-X Prize, Kaggle Marine Vocalization competitions. 
+
+
