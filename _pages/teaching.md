@@ -6,8 +6,8 @@ author_profile: true
 
 <br>
 
-<b> Lecturer I, Hong Kong Baptist University (September 2023 - now) </b>  <br> 
-<i> Teach Cybersecurity, Blockchain, and IT management to the Baptist University students. Lecture knowledge of AI, blockchain, cybersecurity, machine learning, and business management to students. </i>.
+<b> Lecturer I, Accademic Coordinator, Hong Kong Baptist University (September 2023 - now) </b>  <br> 
+<i>Teach Cybersecurity, Blockchain, and IT management to the Baptist University students. Lecture knowledge of AI, blockchain, cybersecurity, machine learning, and business management to students. </i>.
 
 <b> Lecturer, Hong Kong University of Science and Technology (HKUST) (July 2017 - 2020) </b>  <br> 
 <i> Teach Calculus and Linear Algebra, to HKUST students. Lecture knowledge of indefinite and definite integral and their application, convergence of sequences and series, and rules of differentiation to students. </i>.
