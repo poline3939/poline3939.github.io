@@ -5,6 +5,10 @@ modified: 2009-Nov
 ---
 <br>
 
+* Grant Review Panelist
+  - [Hong Kong Innovation and Technology Commission (ITC) Fund](https://www.itc.gov.hk/en/index.html)
+  - Grant Vetting Sub-committee (GVSC), Hong Kong Baptist University
+
 * Session Chair
   - [The International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org/);
   - [SIAM Conference on Mathematics of Data Science (MDS) 2022](https://www.siam.org/conferences/cm/conference/mds22).
