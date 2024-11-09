@@ -22,6 +22,7 @@ modified: 2009-Nov
   - [The International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org/), [2024](https://ijcai24.org/);
   - [The International Conference on Learning Representations (ICLR) 2023](https://iclr.cc/Conferences/2023),[2024](https://attend.ieee.org/ica-2024/);
   - [The IEEE International Conference on Agents (ICA) 2023](https://confaid.com/ieee-ica2023/),[2024](https://attend.ieee.org/ica-2024/);
+  - [Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2024](https://www.pricai.org/2024/).
   - [The 26th International Symposium On Wireless Personal Multimedia Communications (WPMC 2023)](https://www.comsoc.org/conferences-events/international-symposium-wireless-personal-multimedia-communications-2023); 
   - [2022 International Conference on Applied Mathematics and Digital Simulation (AMDS 2022)](https://www.amds-conf.com/committee).
 
