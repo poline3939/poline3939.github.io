@@ -20,7 +20,7 @@ modified: 2009-Nov
 * Technical Program Committee
   - [The IEEE International Symposium on Biomedical Imaging (ISBI) 2025](https://biomedicalimaging.org/2025/?__hstc=51849206.655b7dd8e6830b4548d19e37db39bdaf.1730720737632.1730720737632.1730720737632.1&__hssc=51849206.2.1730720737632&__hsfp=1541740377);
   - [The International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org/), [2024](https://ijcai24.org/), [2025](https://2025.ijcai.org/);
-  - [The International Conference on Learning Representations (ICLR) 2023](https://iclr.cc/Conferences/2023),[2024](https://attend.ieee.org/ica-2024/);
+  - [The International Conference on Learning Representations (ICLR) 2023](https://iclr.cc/Conferences/2023), [2024](https://attend.ieee.org/ica-2024/);
   - [The IEEE International Conference on Agents (ICA) 2023](https://confaid.com/ieee-ica2023/), [2024](https://attend.ieee.org/ica-2024/);
   - [Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2024](https://www.pricai.org/2024/).
   - [The 26th International Symposium On Wireless Personal Multimedia Communications (WPMC 2023)](https://www.comsoc.org/conferences-events/international-symposium-wireless-personal-multimedia-communications-2023); 
