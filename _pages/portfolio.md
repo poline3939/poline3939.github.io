@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 <br>
+<b> Research Grant </b>
+<b>  PI on Automatic Deepfake Identi cation System Development</b>  <br> 
+<i>  School of Continuing Education, Hong Kong Baptist University, 2025 - 2026 </i>.
+
+<br>
 <b> Awards and Honors </b> <br> 
  - Hong Kong Information and Communication Technology (ICT) Smart Business Award, 2022. <br> 
  - Communication Technology ICT Innovation Award of Hong Kong, 2022. <br> 
@@ -17,8 +22,4 @@ author_profile: true
  - Graduate Student Fellowship, Duke University, 2009-2013. <br> 
 
 
-<br>
-<b> Research Grant </b>
 
-<b> PI on Automatic Deepfake Identi cation System Development</b>  <br> 
-<i>  School of Continuing Education, Hong Kong Baptist University, 2025 - 2026 </i>.
