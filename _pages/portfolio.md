@@ -6,8 +6,8 @@ author_profile: true
 
 <br>
 <b> Research Grant </b> <br>
-<b>  PI on Automatic Deepfake Identi cation System Development</b>  <br> 
-<i>  School of Continuing Education, Hong Kong Baptist University, 2025 - 2026 </i>. <br>
+- <b>  PI on Automatic Deepfake Identi cation System Development</b>  <br> 
+- <i>  School of Continuing Education, Hong Kong Baptist University, 2025 - 2026 </i>. <br>
 
 <br>
 <b> Awards and Honors </b> <br> 
