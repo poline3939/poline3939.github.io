@@ -6,8 +6,8 @@ author_profile: true
 
 <br>
 <b> Awards and Honors </b> <br> 
-<b> Hong Kong Information and Communication Technology (ICT) Smart Business Award, 2022. <br> 
-<b> Communication Technology ICT Innovation Award of Hong Kong, 2022. <br> 
+ - Hong Kong Information and Communication Technology (ICT) Smart Business Award, 2022. <br> 
+ - Communication Technology ICT Innovation Award of Hong Kong, 2022. <br> 
 * Research Exchange Fellowship, Hong Kong & China Science Foundation, 2018 - 2020. <br> 
 * Research Travel Grant, Hong Kong University of Science and Technology, 2019. <br> 
 * Bass Summer Research Fellowship, Duke University, 2015. <br> 
