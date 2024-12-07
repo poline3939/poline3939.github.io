@@ -7,7 +7,7 @@ modified: 2009-Nov
 
 * Grant Review Panelist
   - [Hong Kong Innovation and Technology Commission (ITC) Fund](https://www.itc.gov.hk/en/index.html)
-  - Grant Vetting Sub-committee (GVSC), Hong Kong Baptist University
+  - Grant Vetting Sub-committee (GVSC), School of Continuing Education, Hong Kong Baptist University
 
 <br>
 
