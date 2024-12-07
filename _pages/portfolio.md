@@ -1,5 +1,5 @@
 ---
-title: "Awards"
+title: "Awards and Honors"
 permalink: /portfolio/
 author_profile: true
 ---
