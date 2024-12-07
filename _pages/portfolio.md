@@ -4,6 +4,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+<br>
+<b> Awards and Honors </b>
 * Hong Kong Information and Communication Technology (ICT) Smart Business Award, 2022.
 * Communication Technology ICT Innovation Award of Hong Kong, 2022.
 * Research Exchange Fellowship, Hong Kong & China Science Foundation, 2018 - 2020.
@@ -15,4 +17,9 @@ author_profile: true
 * Graduate Student Fellowship, Duke University, 2009-2013.
 
 
+<br>
+<b> Research Grant </b>
 
+<b>[Randomized Kaczmarz method for single particle X-ray image phase retrieval](https://arxiv.org/pdf/2207.04736.pdf)</b>  <i>[Invited paper]<i> <br> 
+<b>Xian Y.</b>, Liu H., Tai X., and Wang Y.<br>
+<i>Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, 2022</i>.
