@@ -10,6 +10,7 @@ author_profile: true
 
 <br>
 <b> Awards and Honors </b> <br> 
+ - Fellow of Higher Education Academy (FHEA), 2025. <br>
  - Hong Kong Information and Communication Technology (ICT) Smart Business Award, 2022. <br> 
  - Communication Technology ICT Innovation Award of Hong Kong, 2022. <br> 
  - Research Exchange Fellowship, Hong Kong & China Science Foundation, 2018 - 2020. <br> 
