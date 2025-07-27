@@ -19,8 +19,7 @@ redirect_from:
 
 
 # Recent Highlights
-* November 2024: I served as Technical Program Committee for [IEEE International Symposium on Biomedical Imaging (ISBI) 2025](https://biomedicalimaging.org/2025/), [IEEE International Conference on Agents (ICA) 2024](https://attend.ieee.org/ica-2024/), and [Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2024](https://www.pricai.org/2024/).
-* May 2024: I served as Grant Review Panalist for [Hong Kong Innovation and Technology Commission (ITC) Fund](https://www.itf.gov.hk/).
+* July 2025: I was recognized as Fellow of Higher Education Academy (FHEA).
 * February 2024: I served as a technical committee member for the [2024 International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai24.org/).
 * November 2023: I served as a reviewer for the [IEEE International Symposium on Biomedical Imaging (ISBI)](https://biomedicalimaging.org/2024/), and have organized guest lectures on cybersecurity and blockchain technology at the Hong Kong Baptist University. 
 * August 2023: I served as a session chair of the [International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai-23.org/), and served as a technical program committee member for the [IEEE 2023 International Conference on Agents (ICA)](https://www.computer.org/conferences/ica-2023) and the [26th International Symposium on Wireless Personal Multimedia Communications (WPMC2023)](http://wpmc2023.com/).  
