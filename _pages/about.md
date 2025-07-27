@@ -19,7 +19,7 @@ redirect_from:
 
 
 # Recent Highlights
-* July 2025: I was recognized as Fellow of Higher Education Academy (FHEA).
+* July 2025: I was recognized as Fellow of [Higher Education Academy](https://www.advance-he.ac.uk/) (FHEA).
 * May 2024: I served as Grant Review Panalist for [Hong Kong Innovation and Technology Commission (ITC) Fund](https://www.itf.gov.hk/en/home/index.html).
 * February 2024: I served as a technical committee member for the [2024 International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai24.org/).
 * November 2023: I served as a reviewer for the [IEEE International Symposium on Biomedical Imaging (ISBI)](https://biomedicalimaging.org/2024/), and have organized guest lectures on cybersecurity and blockchain technology at the Hong Kong Baptist University. 
