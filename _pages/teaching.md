@@ -6,8 +6,8 @@ author_profile: true
 
 <br>
 
-*  Lecturer I,  Hong Kong Baptist University (September 2023 - now)  <br>
-    - Serve as Academic Coordinator at School of Continuing Education.
+*  Lecturer,  Hong Kong Baptist University (September 2023 - now)  <br>
+    - Serve as Academic Coordinator at Hong Kong Baptist University.
     - Course development and lecture knowledge in Data Science division: Network and Data Security, Deep Learning, and IT management. Supervise students with their study and graduation projects. 
     - Organize guest lectures in data science. Lead outreach student study tour in Japan.
 
