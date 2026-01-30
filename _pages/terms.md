@@ -18,13 +18,12 @@ modified: 2009-Nov
 <br>
 
 * Technical Program Committee
-  - [The IEEE International Symposium on Biomedical Imaging (ISBI) 2025- Now](https://biomedicalimaging.org/2025/?__hstc=51849206.655b7dd8e6830b4548d19e37db39bdaf.1730720737632.1730720737632.1730720737632.1&__hssc=51849206.2.1730720737632&__hsfp=1541740377);
-  - [The International Joint Conference on Artificial Intelligence (IJCAI) 2023 - Now](https://ijcai-23.org/);
-  - [The International Conference on Learning Representations (ICLR) 2023 - Now](https://iclr.cc/Conferences/2023);
-  - [The IEEE International Conference on Agents (ICA) 2023](https://confaid.com/ieee-ica2023/), [2024](https://attend.ieee.org/ica-2024/);
-  - [Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2024](https://www.pricai.org/2024/).
+  - [The IEEE International Symposium on Biomedical Imaging (ISBI)](https://biomedicalimaging.org/2025/?__hstc=51849206.655b7dd8e6830b4548d19e37db39bdaf.1730720737632.1730720737632.1730720737632.1&__hssc=51849206.2.1730720737632&__hsfp=1541740377), 2025- Now;
+  - [The International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai-23.org/), 2023-Now;
+  - [The International Conference on Learning Representations (ICLR)](https://iclr.cc/Conferences/2023), 2023-Now;
+  - [The IEEE International Conference on Agents (ICA)](https://confaid.com/ieee-ica2023/), 2023-Now;
+  - [Pacific Rim International Conference on Artificial Intelligence (PRICAI)](https://www.pricai.org/2024/), 2024-Now.
   - [The 26th International Symposium On Wireless Personal Multimedia Communications (WPMC 2023)](https://www.comsoc.org/conferences-events/international-symposium-wireless-personal-multimedia-communications-2023); 
-  - [2022 International Conference on Applied Mathematics and Digital Simulation (AMDS 2022)](https://www.amds-conf.com/committee).
 
 
 <br>
