@@ -18,6 +18,7 @@ modified: 2009-Nov
 <br>
 
 * Technical Program Committee
+  - [Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)](https://pakdd.org/), 2026.
   - [The IEEE International Symposium on Biomedical Imaging (ISBI)](https://biomedicalimaging.org/2025/?__hstc=51849206.655b7dd8e6830b4548d19e37db39bdaf.1730720737632.1730720737632.1730720737632.1&__hssc=51849206.2.1730720737632&__hsfp=1541740377), 2025- Now;
   - [The International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai-23.org/), 2023-Now;
   - [The International Conference on Learning Representations (ICLR)](https://iclr.cc/Conferences/2023), 2023-Now;
