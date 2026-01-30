@@ -44,6 +44,14 @@ Gu H., <b>Xian Y.</b>, Christy Unarta I., and Yao Y.<br>
 <b> On marine mammal acoustic detection performance bounds </b> <br> 
 <b> Xian Y.</b>,  Zhang Y., Tantum S., and Nolte L. <br>
 <i> The Journal of the Acoustical Society of America, 2013 </i>   
+
+<br>
+<b> Patents </b>
+  
+<b> [Method and apparatus of channel estimation in ultra-wideband communication](https://patents.google.com/patent/US20250158851A1/en) </b> <br> 
+<b> Xian Y.</b>  Mao C., Xue Y., Zhang H., and Cai J-F <br>
+<i> US Patent, 2025 </i> 
+
     
 
 <br>
@@ -55,14 +63,7 @@ Cai J., Miao L., Wang Y. and <b> Xian Y.</b> <br>
 <b> [DCTNet and PCANet for acoustic siganls feature extraction](https://arxiv.org/pdf/1605.01755.pdf) </b> <br> 
 <b> Xian Y.</b>, Thompson A., Sun X., Nowacek D., and Nolte L. <br>  
 
-<br>
-<b> Patents </b>
-  
-<b> Method and apparatus of adaptive transmission based on the ultra wide-band signals </b> <br> 
-<b> Xian Y.</b> and  Mao C. <br>
 
-<b> Method and apparatus of localization based on the free-space optical signals </b> <br> 
-<b> Xian Y.</b> and  Mao C. <br>
   
 <br>
 <b> Technical Reports </b>
