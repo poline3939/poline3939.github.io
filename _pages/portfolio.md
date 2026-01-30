@@ -6,11 +6,11 @@ author_profile: true
 
 <br>
 <b> Research Grants </b> <br>
--  PI on Automatic Deepfake Identification System Development (SCE/SGF/2425-07), 2025 - 2026.   <br> 
+-  PI on Automatic Deepfake Identification System Development (SCE/SGF/2425-07), $ 120,000, 2025 - 2026.   <br> 
 
 <br>
 <b> Teaching Grants </b> <br>
-- Co-I on Service Learning Grant of ARTT 3006 Transdisplinary Collaboration II, HKBU, 2026.   <br> 
+- Co-I on Service Learning Grant of ARTT 3006 Transdisplinary Collaboration II, HKBU, $ 30,000, 2026.   <br> 
 
 <br>
 <b> Awards and Honors </b> <br> 
