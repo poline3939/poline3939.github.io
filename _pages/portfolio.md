@@ -6,7 +6,11 @@ author_profile: true
 
 <br>
 <b> Research Grant </b> <br>
--  PI on Automatic Deepfake Identification System Development (SCE/SGF/2425-07), 2025 - 2026   <br> 
+-  PI on Automatic Deepfake Identification System Development (SCE/SGF/2425-07), 2025 - 2026.   <br> 
+
+<br>
+<b> Teaching Grant </b> <br>
+- Co-I on Service Learning Grant of ARTT 3006 Transdisplinary Collaboration II, HKBU, 2026.   <br> 
 
 <br>
 <b> Awards and Honors </b> <br> 
