@@ -39,7 +39,7 @@ modified: 2009-Nov
   - Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging;
   - The IEEE International Symposium on Biomedical Imaging (ISBI); 
   - The IEEE International Conference on Agents (ICA);
-  - The International Symposium On Wireless Personal Multimedia Communications (WPMC);
+  - Journal of Acoustical Society of America (JASA);
   - The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD); 
   - Applied and Computational Harmonic Analysis (ACHA); 
   - Journal of Machine Learning Research (JMLR).
